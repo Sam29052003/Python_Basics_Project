@@ -16,10 +16,15 @@ It is designed as a beginner-friendly program to practice Python fundamentals su
 calculator.py
 
 A simple script that:
+
 -Accepts multiple numbers from the user
--Calculates:
+
+-Calculates
+
 -Total (sum)
+
 -Average
+
 -Prints the results in a clean format
 
 # Example Input/Output
