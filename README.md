@@ -19,11 +19,9 @@ A simple script that:
 
 -Accepts multiple numbers from the user
 
--Calculates
-
--Total (sum)
-
--Average
+-Calculates:
+         Total (sum)
+         Average
 
 -Prints the results in a clean format
 
